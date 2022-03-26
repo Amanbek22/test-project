@@ -25,6 +25,7 @@ function App() {
       img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/BMW_G11_IMG_2002.jpg/1200px-BMW_G11_IMG_2002.jpg"
     },
   ]
+  asadasd
 
   return (
     <div className="App">
